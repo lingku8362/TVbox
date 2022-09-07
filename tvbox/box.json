@@ -4,6 +4,7 @@
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
+<<<<<<< HEAD
 //*-----------------------JAR包接口-----------------------*/
 //"spider":"https://github.com/lingku8362/tvbox/blob/main/tvbox/zy/jar/xzy.jar",
 //"https://github.com/lingku8362/tvbox/blob/main/tvbox/zy/jar/xzy.jar"
@@ -12,6 +13,16 @@
 "spider":"https://github.com/lingku8362/tvbox/blob/main/tvbox/zy/jar/xzy.jar",
 
 
+=======
+///*-----------------------JAR包接口-----------------------*/
+///"spider":"clan://TVBox/zy/jar/xzy.jar",
+  
+  /*-----------------------JAR包接口-----------------------*/
+"spider":"clan:https://github.com/lingku8362/tvbox/blob/main/tvbox/zy/jar/xzy.jar",
+  
+  
+  
+>>>>>>> a4197836e9bc8fd0faad6c0fbdac7beca5c6c473
 
 /*-----------------------直播-----------------------*/
 "lives": [{"group": "redirect","channels": [{"name": "xzy","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3p5L3R2L3h6eS50eHQ="]}]}],
