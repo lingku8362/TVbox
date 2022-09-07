@@ -1,0 +1,5 @@
+替换本地地址为网络地址
+
+clan://TVBox/zy
+
+https://raw.githubusercontent.com/lingku8362/tvbox/main/tvbox/zy
